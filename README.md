@@ -10,8 +10,7 @@ https://discordpy.readthedocs.io/en/stable/discord.html
 
 ## python modules
 ```
-pip install discord
-pip install tweepy
-pip install dotenv
-pip install asyncio
+tweepy
+discord
+python-dotenv
 ```
