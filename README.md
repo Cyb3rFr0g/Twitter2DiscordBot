@@ -2,10 +2,10 @@
 Simple Discord bot to send a users most recent tweet to a discord channel developed in python 3.10
 
 # Requirements
-## Active twitter developemnt account
+## Active twitter developer account
 https://developer.twitter.com/
 
-## A discord bot
+## A discord bot setup
 https://discordpy.readthedocs.io/en/stable/discord.html
 
 ## python modules
